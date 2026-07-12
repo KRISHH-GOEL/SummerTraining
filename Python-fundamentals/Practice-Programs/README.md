@@ -20,8 +20,12 @@ These programs helped me apply concepts such as:
 ## 📝 Practice Programs
 
 | S.No. | Program | Status |
-|-------|---------|--------|
+|:----:|---------|:------:|
 | 1 | Calculator | ✅ Completed |
+| 2 | ATM Interface | ✅ Completed |
+| 3 | Rectangular Calculator | ✅ Completed |
+
+More practice programs will be added as I continue my learning journey.
 
 More practice programs will be added as I continue my learning journey.
 
