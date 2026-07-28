@@ -14,7 +14,7 @@ These programs simulate real-world data analysis tasks commonly performed in Dat
 |------|---------|------------------|--------|
 | 1 | Titanic Data Cleaning | Missing Values, Selection, Data Cleaning | ✅ Completed |
 | 2 | Sales Data Analysis | GroupBy, Aggregation, Pivot Tables | ✅ Completed |
-| 3 | Employee Data Management | Merge, Apply, Map, Join, Concat, Time Series | work under process |
+| 3 | Employee Data Management | Merge, Apply, Map, Join, Concat, Time Series | ✅ Completed |
 
 ---
 
